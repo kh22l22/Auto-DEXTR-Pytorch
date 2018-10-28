@@ -8,12 +8,11 @@
 - [visdom](https://github.com/facebookresearch/visdom) (optional for visualization)
 
 ### Installation
-The code was tested with [Miniconda](https://conda.io/miniconda.html) and Python 3.6. After installing the Miniconda environment:
-
+The code was tested with Anaconda and Python 3.6. After installing the Anaconda environment:
 
 0. Clone the repo:
     ```Shell
-    git clone https://github.com/scaelles/Auto-DEXTR-Pytorch
+    git clone https://github.com/kh22l22/Auto-DEXTR-Pytorch
     cd Auto-DEXTR-Pytorch
     ```
  
