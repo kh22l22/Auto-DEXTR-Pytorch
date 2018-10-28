@@ -10,8 +10,6 @@ from nlfd import build_model
 import os
 import torch
 from collections import OrderedDict
-from PIL import Image
-#import numpy as np
 from matplotlib import pyplot as plt
 
 from torch.nn.functional import upsample
