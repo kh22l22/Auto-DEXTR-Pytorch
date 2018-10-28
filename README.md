@@ -1,5 +1,5 @@
 # Automatic Deep Extreme Cut
-<img src='imgs/Workflow.png' align="right" width=786>
+<img src='imgs/Workflow.png' align="center" width=786>
 
 
 ## Prerequisites
