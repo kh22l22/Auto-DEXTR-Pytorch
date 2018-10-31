@@ -150,6 +150,9 @@ with torch.no_grad():
 
         results.append(result)
 
+        # NLDF Mask 결과 출력
+        #prob = prob>thres
+        #plt.imshow(helpers.overlay_masks(image / 255, prob))
         # Plot the results
         plt.imshow(helpers.overlay_masks(image / 255, results))
         #plt.plot(extreme_points_ori[:, 0], extreme_points_ori[:, 1], 'ro')
