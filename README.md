@@ -27,6 +27,7 @@ The code was tested with Anaconda and Python 3.6. After installing the Anaconda 
     ```Shell
     python demo.py
     ```
+3. default choose: download and copy the [pretrained model](https://drive.google.com/file/d/10cnWpqABT6MRdTO0p17hcHornMs6ggQL/view?usp=sharing) to `weights` directory.
 
 ## Related Projects:
 [NLFD](https://github.com/AceCoooool/NLFD-pytorch): Luo Z, Mishra A, Achkar A, Eichel J, Li S-Z, Jodoin P-M, “Non-Local Deep Features for Salient Object Detection”, IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2017)
